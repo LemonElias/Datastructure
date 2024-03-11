@@ -1,7 +1,7 @@
 # Datenstrukturen
 <p> 
 
-<!--- [![wakatime](https://wakatime.com/badge/github/LemonElias/Datastructure.svg)](https://wakatime.com/badge/github/LemonElias/Datastructure) [![en](https://img.shields.io/badge/changelanguage-en-red.svg)](https://github.com/LemonElias/Datastructure/blob/main/readme.md) -->
+[![wakatime](https://wakatime.com/badge/github/LemonElias/Datastructure.svg)](https://wakatime.com/badge/github/LemonElias/Datastructure) [![en](https://img.shields.io/badge/changelanguage-en-red.svg)](https://github.com/LemonElias/Datastructure/blob/main/readme.md)
 </p> 
 
 In diesem Repository gibt es die verschiedensten Datenstrukturen die man in der Schule so behandelt hat einmal mit implementierten Python Code und einer Readme Datei, die die grundlegensten Sachen erklärt. Jegliche Datei in diesem Repository ist frei zu benutzen.
