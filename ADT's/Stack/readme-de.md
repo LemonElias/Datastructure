@@ -32,9 +32,9 @@ def push(self, pContent) # Fügt einen Parameter für den Inhalt hinzu
 ```python
 def pop(self)
 ```
-**Top:** Dieses Methode gibt das oberste Element vom Stapel aus ohne es zu entfernen
+**Peek:** Dieses Methode gibt das oberste Element vom Stapel aus ohne es zu entfernen
 ```python
-def top(self)
+def peek(self)
 ```
 **isEmpty:** Bei dieser Methode wird gecheckt ob die Schlange leer ist und gibt einen booleschen Wert zurück
 ```python
