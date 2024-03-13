@@ -19,4 +19,4 @@ In diesem Repository gibt es die verschiedensten Datenstrukturen die man in der 
 3. Stack (bald...)
 4. Binärer Suchbaum (bald...)
 
-Für eine kompaktere Ansicht zum lernen der einzelnen Themen des Informatik Abitures (NRW) klickt [hier](www.jonahsimon.de).
+Für eine kompaktere Ansicht zum lernen der einzelnen Themen des Informatik Abitures (NRW) klickt [hier](https://www.jonahsimon.de).
