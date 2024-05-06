@@ -4,7 +4,7 @@
 
 ## LIFO-Verfahren
 
-Das **LIFO-Verfahren steht für Last In First Out-Verfahren und bezeichnet in der Informatik eine bestimmte Reihenfolge, in der Daten, die zuletzt eingefügt wurden, zuerst auch wieder entnommen werden. 
+Das **LIFO-Verfahren** steht für Last In First Out-Verfahren und bezeichnet in der Informatik eine bestimmte Reihenfolge, in der Daten, die zuletzt eingefügt wurden, zuerst auch wieder entnommen werden. 
 ###
 <div style="text-align:center"><img src="https://www.12manage.com/images/picture_lifo.gif"></div>
 
